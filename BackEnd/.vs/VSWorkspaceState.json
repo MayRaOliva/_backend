@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BackEnd",
+    "\\BackEnd\\Controllers",
+    "\\BackEnd\\Domain",
+    "\\BackEnd\\Pages",
+    "\\BackEnd\\Persitence"
+  ],
+  "SelectedNode": "\\BackEnd\\appsettings.json",
+  "PreviewInSolutionExplorer": false
+}
